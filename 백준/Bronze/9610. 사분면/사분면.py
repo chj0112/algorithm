@@ -1,7 +1,9 @@
+import sys
+
 n = int(input())
 q1, q2, q3, q4, axis = 0, 0, 0, 0, 0
 for i in range(n):
-    x, y = map(int, input().split())
+    x, y = map(int, sys.stdin.readline().split())
     if x == 0 or y == 0:
         axis += 1
     elif x > 0:
