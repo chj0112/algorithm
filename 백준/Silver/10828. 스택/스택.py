@@ -1,7 +1,10 @@
+import sys
+input = sys.stdin.readline
+
 n = int(input())
 stk = list()
 for i in range(n):
-    cmd = input().split()
+    cmd = input().rstrip().split()
     if cmd[0] == "push":
         stk.append(cmd[1])
     elif cmd[0] == "pop":
