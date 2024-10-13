@@ -11,3 +11,6 @@
 [N과 M](https://www.acmicpc.net/workbook/view/2052)
 ## 프로그래머스
 [PCCP 기출문제](https://school.programmers.co.kr/learn/challenges?order=recent&partIds=56389)
+
+Level 1 연습문제
+
