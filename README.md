@@ -12,5 +12,5 @@
 ## 프로그래머스
 [PCCP 기출문제](https://school.programmers.co.kr/learn/challenges?order=recent&partIds=56389)
 
-Level 1 연습문제
+[Lv. 1 연습문제](https://school.programmers.co.kr/learn/challenges?order=recent&levels=1&page=1&search=%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C)
 
